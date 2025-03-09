@@ -1,0 +1,36 @@
+
+body{
+    background-color: #F1F0E9;
+    color: #0D4715;
+    font-family: poppins;
+}
+
+
+h1,h2{
+    text-align: center;
+}
+button{
+    font-size:1rem;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    margin-top: 20px;
+    border: 2px solid;
+    color: #0e0909;
+    background-color: #01cb95;
+}
+
+.facts{
+    /* background-color: #802d2d; */
+    height: 300px;
+    width: 800px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+    position: absolute;
+    left: 22.5%;
+    border: 2px solid black;
+    
+    
+}
